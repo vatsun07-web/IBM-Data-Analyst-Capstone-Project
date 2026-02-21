@@ -1,6 +1,10 @@
 # IBM Data Analyst Capstone Project  
 ## Stack Overflow Developer Survey Analysis
 
+
+<img width="1072" height="809" alt="Screenshot 2025-11-16 at 3 56 44 in the afternoon" src="https://github.com/user-attachments/assets/dd293343-04cb-44d1-9749-1342e9676df8" />
+
+
 ## 📌 Project Overview
 This project is part of the **IBM Data Analyst Professional Certificate Capstone**.  
 The objective is to analyze the **Stack Overflow Developer Survey** to uncover trends in programming languages, tools, platforms, web frameworks, and databases used by developers worldwide.
